@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+statsmodels>=0.14
+# 검증 환경: Python 3.13 / pandas 3.0.5 / numpy 2.5.3 / matplotlib 3.11.2 / statsmodels 0.15.0
